@@ -15,3 +15,5 @@ Changes:
 New Injection Method!
 
 18/01/21 - Added a new DLL! Important for the integrity of the exploit!
+
+18/01/21 - Updated the UI to work with the dlls simultaneously!
