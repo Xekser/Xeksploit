@@ -1,6 +1,17 @@
 # Xeksploit
 A New LuaU Script Executor! Frequent Updates and Stabiliy! Download now!
 
+Steps:
+
+1) Download the .zip
+
+2) run the executable
+  
+3) click download latest
+  
+4) click attach
+  
+
 
 15/01/21 - Repository Created!
 
